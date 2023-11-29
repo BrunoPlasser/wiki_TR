@@ -1,0 +1,117 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    background-color: #f8f8f8;
+    color: #333;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1aoBpT3v_yRq_ArVr3KUTcOWILqD85Iwu5UqC0JaJ9N6ekZ7Z3cA79itEflI7pdEqk0g&usqp=CAU");
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #daa520;
+    color: white;
+}
+
+main {
+    margin-top: 20px;
+    text-align: left;
+
+}
+
+
+
+.section-green {
+    background-color: #4CAF50;
+    color: white;
+    border-color: #e9ebe9;
+    font-size: large;
+}
+
+.section-blue {
+    background-color: #3498db;
+    color: white;
+    border-color: #e9ebe9;
+    font-size: large;
+}
+
+.section-gold {
+    background-color: rgb(228, 193, 53);
+    color: white;
+    font-size: large;
+    background-image: url(https://img.freepik.com/vetores-premium/elemento-de-desenho-vetorial-de-eclipse-solar_155578-1387.jpg);
+    background-position: 0cqmax;
+}
+
+.section-black {
+    background-color: #151d23;
+    color: white;
+    font-size: large;
+}
+
+.section-orange {
+    background-color: #e67e22;
+    color: white;
+    font-size: large;
+}
+
+
+section {
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 10px solid #e0ca04;
+    /* Adicionei a borda aqui */
+}   
+
+h1 {
+    color: #ffffff;
+    font-size: 2em;
+    background-color: rgb(#bb8e1e); /* Cor de fundo para os títulos */
+    
+}
+
+h2 {
+    color: #e0ca04;
+    font-size: 2em;
+    border: 10px solid #000000;
+    background-color: #030303; /* Cor de fundo para os títulos */
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: white;
+    font-size: 2em;
+    background-color: #030303; /* Cor de fundo para os títulos */
+    border: 10px solid #000000;
+    background-color: #030303; /* Cor de fundo para os títulos */
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+h4 {
+    color: rgb(71, 71, 188);
+    font-size: 2em;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 10px solid #000000;
+    background-color: #030303; /* Cor de fundo para os títulos */
+}
+p {
+    line-height: 1.6;
+    color: rgb(213, 164, 28);
+    background-color: #010101;
+}
+
+img {
+    max-width: 20%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 10px solid #fff;
+}
